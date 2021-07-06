@@ -13,7 +13,7 @@ public class MyApplication extends Application {
         super.onCreate();
 
         cars = new ArrayList<Car>();
-        cars.add(new Car("Polo", "Black Color \n Car No - HR 3C 1295\n Dent on Back and right side\n Condition: Working", "Lokesh Garg", "78690478391", "Volkswagen"));
+        cars.add(new Car("Polo", "Black Color \n Car No - HR 3C 1295\n Dent on Back and right side\n Condition: Working", "Vaibhav Gupta", "78690478391", "Volkswagen"));
         cars.add(new Car("E-class", "Grey Color \n HR 23A 1346 \n Dent on Front \n Scratches ","Nikita", "87909049891", "Mercedes"));
         cars.add(new Car("G-class", "Brown Color \n HR 56AD 7823 \n no Dents \n problem with engine  ","Aashi Bansal", "00986472811", "Mercedes"));
         cars.add(new Car("Vento", "Black Color \n Car No - HR 3C 1295\n Dent on Back and right side\n Condition: Working", "Sanjay Malik", "78687478391", "Volkswagen"));
